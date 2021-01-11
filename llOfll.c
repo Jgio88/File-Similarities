@@ -1,4 +1,4 @@
-#include "asst2.h"
+#include "fileRdrLib.h"
 
 /* FOR REFERENCE
 //List of words within file
